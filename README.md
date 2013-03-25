@@ -1,19 +1,26 @@
+#gdoc2wiki
+
 A simple, quick, and dirty script to convert a Google Doc to MediaWiki markup.
+
+## Dependencies
 
 This project relies on these libraries:
 
-Beautiful Soup:
+###Beautiful Soup:
+
 http://www.crummy.com/software/BeautifulSoup/
 
-css-py:
+### css-py:
+
 http://code.google.com/p/css-py/
 
-PLY
+### PLY:
+
 http://www.dabeaz.com/ply/
 
 
 
-TODO:
+## TODO:
 * Allow install with `easy_install`
 * Support more features of google docs
 * Clean up the code
